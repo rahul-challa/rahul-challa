@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Challa</h1>
-<h3 align="center">An Aspiring Data Scientist form India</h3>
+<h3 align="center">An Aspiring Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
 
