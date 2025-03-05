@@ -27,10 +27,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/rahul-challa/rahul-challa/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/rahul-challa/count.svg?"  />
 </div>
