@@ -1,14 +1,26 @@
-<!-- Banner -->
+<!-- Custom Font for Heading (works on GitHub dark/light) -->
+<h1 align="center" style="font-family: 'Montserrat', 'Fira Code', 'Segoe UI', Arial, sans-serif; font-size: 3rem; font-weight: bold; letter-spacing: 2px;">
+  Viswanadh Rahul Challa
+</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Viswanadh+Rahul+Challa!;Software+Engineer+%7C+AI+%7C+Cloud+%7C+Full+Stack+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul+Challa!;Software+Engineer+%7C+AI+%7C+Cloud+%7C+Full+Stack+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<!-- Contact & Links -->
+<!-- Clean, Rounded Social Buttons -->
 <p align="center">
-  <a href="mailto:challaviswanadhrahul@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rahul-challa/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/rahul-challa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="mailto:challaviswanadhrahul@gmail.com">
+    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=EA4335&logoWidth=20&color=EA4335&style=flat-square&borderRadius=20" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rahul-challa/">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=0A66C2&logoWidth=20&color=0A66C2&style=flat-square&borderRadius=20" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/rahul-challa">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&label=GITHUB&labelColor=181717&logoWidth=20&color=181717&style=flat-square&borderRadius=20" alt="GitHub"/>
+  </a>
+  <a href="https://rahul-challa.github.io/landing-page/">
+    <img src="https://img.shields.io/badge/portfolio-36BCF7?style=for-the-badge&logo=internet-explorer&logoColor=white&label=PORTFOLIO&labelColor=36BCF7&logoWidth=20&color=36BCF7&style=flat-square&borderRadius=20" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
@@ -58,11 +70,11 @@
 ### 🏅 Certifications & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Data%20Science%20MAMANG%20Way-upGrad-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Semi%20Finalist-Xperiments%20by%20UST-yellow?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Python-Kaggle-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/SQL%20%26%20DBs-HackerRank-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/DSA-GeeksforGeeks-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Data%20Science%20MAMANG%20Way-upGrad-blue?style=flat-square&logo=google-scholar&logoColor=white&borderRadius=20"/>
+  <img src="https://img.shields.io/badge/Semi%20Finalist-Xperiments%20by%20UST-yellow?style=flat-square&logo=medal&logoColor=white&borderRadius=20"/>
+  <img src="https://img.shields.io/badge/Python-Kaggle-brightgreen?style=flat-square&logo=kaggle&logoColor=white&borderRadius=20"/>
+  <img src="https://img.shields.io/badge/SQL%20%26%20DBs-HackerRank-green?style=flat-square&logo=hackerrank&logoColor=white&borderRadius=20"/>
+  <img src="https://img.shields.io/badge/DSA-GeeksforGeeks-orange?style=flat-square&logo=geeksforgeeks&logoColor=white&borderRadius=20"/>
 </p>
 
 ---
