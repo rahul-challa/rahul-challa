@@ -8,16 +8,16 @@
 
 <p align="center">
   <a href="mailto:challaviswanadhrahul@gmail.com">
-    <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=EA4335&logoWidth=20&color=EA4335&style=flat-square&borderRadius=20" alt="Email"/>
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="email" />
   </a>
   <a href="https://www.linkedin.com/in/rahul-challa/">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LINKEDIN&labelColor=0A66C2&logoWidth=20&color=0A66C2&style=flat-square&borderRadius=20" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="linkedin" />
   </a>
   <a href="https://github.com/rahul-challa">
-    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white&label=GITHUB&labelColor=181717&logoWidth=20&color=181717&style=flat-square&borderRadius=20" alt="GitHub"/>
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="github" />
   </a>
   <a href="https://rahul-challa.github.io/landing-page/">
-    <img src="https://img.shields.io/badge/portfolio-36BCF7?style=for-the-badge&logo=internet-explorer&logoColor=white&label=PORTFOLIO&labelColor=36BCF7&logoWidth=20&color=36BCF7&style=flat-square&borderRadius=20" alt="Portfolio"/>
+    <img src="https://skillicons.dev/icons?i=webflow" height="48" alt="portfolio" />
   </a>
 </p>
 
