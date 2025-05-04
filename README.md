@@ -17,7 +17,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="48" alt="github" />
   </a>
   <a href="https://rahul-challa.github.io/landing-page/">
-    <img src="https://skillicons.dev/icons?i=vscode" height="48" alt="portfolio" />
+    <img src="https://svgshare.com/i/15kA.svg" height="48" alt="portfolio" />
   </a>
 </p>
 
