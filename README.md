@@ -1,13 +1,11 @@
-<!-- Custom Font for Heading (works on GitHub dark/light) -->
 <h1 align="center" style="font-family: 'Montserrat', 'Fira Code', 'Segoe UI', Arial, sans-serif; font-size: 3rem; font-weight: bold; letter-spacing: 2px;">
   Viswanadh Rahul Challa
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul+Challa!;Software+Engineer+%7C+AI+%7C+Cloud+%7C+Full+Stack+Dev;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+%F0%9F%91%8B%2C+I'm+Rahul+Challa!;Software+Engineer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
-<!-- Clean, Rounded Social Buttons -->
 <p align="center">
   <a href="mailto:challaviswanadhrahul@gmail.com">
     <img src="https://img.shields.io/badge/email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=EMAIL&labelColor=EA4335&logoWidth=20&color=EA4335&style=flat-square&borderRadius=20" alt="Email"/>
@@ -44,7 +42,7 @@
 
 ### 🚀 Experience & Projects
 
-- **Software Engineer @ Headstarter AI**: Built AI-powered tools with React, Next.js, AWS Lambda, DynamoDB.
+- **Software Engineer @ Headstarter AI**: Built AI-powered tools with React, Next.js, AWS Lambda, and DynamoDB.
 - **Data Science Intern @ Coding Rajas**: Fraud detection with Scikit-learn, TensorFlow, SQL.
 - **AI Intern @ Pantech ProEd**: Image processing, OpenCV, TensorFlow.
 - **Top Projects**:
